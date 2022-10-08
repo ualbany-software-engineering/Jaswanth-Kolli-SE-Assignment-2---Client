@@ -1,0 +1,19 @@
+
+.App-logo {
+  height: 5vmin;
+  pointer-events: none;
+}
+
+
+.photo-props {
+  height: 30vmin;
+}
+
+
+.card-props {
+  min-height: 30vmin;
+}
+
+.text-props {
+  color: rgb(156, 82, 82);
+}
