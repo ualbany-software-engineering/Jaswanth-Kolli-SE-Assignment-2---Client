@@ -25,7 +25,7 @@ function App() {
       firstNumber: parseInt(firstNumber),
       secondNumber: parseInt(secondNumber)
     }
-    const response = await fetch('http://localhost:7000/api', {
+    const response = await fetch('http://54.175.178.181:8085', {
       method: 'POST',
       headers: {
         'Accept': 'application/json',
